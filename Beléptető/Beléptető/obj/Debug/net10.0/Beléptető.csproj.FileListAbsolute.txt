@@ -1,0 +1,14 @@
+C:\Users\giran\Desktop\Beléptető\Beléptető\bin\Debug\net10.0\Beléptető.exe
+C:\Users\giran\Desktop\Beléptető\Beléptető\bin\Debug\net10.0\Beléptető.deps.json
+C:\Users\giran\Desktop\Beléptető\Beléptető\bin\Debug\net10.0\Beléptető.runtimeconfig.json
+C:\Users\giran\Desktop\Beléptető\Beléptető\bin\Debug\net10.0\Beléptető.dll
+C:\Users\giran\Desktop\Beléptető\Beléptető\bin\Debug\net10.0\Beléptető.pdb
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\Beléptető.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\Beléptető.AssemblyInfoInputs.cache
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\Beléptető.AssemblyInfo.cs
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\Beléptető.csproj.CoreCompileInputs.cache
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\Beléptető.dll
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\refint\Beléptető.dll
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\Beléptető.pdb
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\Beléptető.genruntimeconfig.cache
+C:\Users\giran\Desktop\Beléptető\Beléptető\obj\Debug\net10.0\ref\Beléptető.dll

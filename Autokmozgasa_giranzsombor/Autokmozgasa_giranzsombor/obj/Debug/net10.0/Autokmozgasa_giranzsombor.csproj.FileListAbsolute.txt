@@ -1,0 +1,14 @@
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\bin\Debug\net10.0\Autokmozgasa_giranzsombor.exe
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\bin\Debug\net10.0\Autokmozgasa_giranzsombor.deps.json
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\bin\Debug\net10.0\Autokmozgasa_giranzsombor.runtimeconfig.json
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\bin\Debug\net10.0\Autokmozgasa_giranzsombor.dll
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\bin\Debug\net10.0\Autokmozgasa_giranzsombor.pdb
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\Autokmozgasa_giranzsombor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\Autokmozgasa_giranzsombor.AssemblyInfoInputs.cache
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\Autokmozgasa_giranzsombor.AssemblyInfo.cs
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\Autokmozgasa_giranzsombor.csproj.CoreCompileInputs.cache
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\Autokmozgasa_giranzsombor.dll
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\refint\Autokmozgasa_giranzsombor.dll
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\Autokmozgasa_giranzsombor.pdb
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\Autokmozgasa_giranzsombor.genruntimeconfig.cache
+C:\Users\giran\Desktop\Autokmozgasa_giranzsombor\Autokmozgasa_giranzsombor\obj\Debug\net10.0\ref\Autokmozgasa_giranzsombor.dll
