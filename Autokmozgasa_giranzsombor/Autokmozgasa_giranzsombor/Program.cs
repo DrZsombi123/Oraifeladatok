@@ -95,27 +95,26 @@ namespace Autokmozgasa_giranzsombor
             }
 
             // 7. feladat
-            Console.WriteLine("7. feladat:");
+        Console.WriteLine("7. feladat:");
 
-            using (StreamWriter sw = new StreamWriter("ido.txt"))
+        using (StreamWriter sw = new StreamWriter("ido.txt"))
+        {
+            var csoportok = jeladasok
+                .GroupBy(x => x.Rendszam)
+                .ToList();
+
+            foreach (var csoport in csoportok)
             {
-                List<IGrouping<string, Jeladas>> csoportok = jeladasok
-                    .GroupBy(x => x.Rendszam)
-                    .ToList();
+                Jeladas elso = csoport.First();
+                Jeladas utolso = csoport.Last();
 
-                foreach (IGrouping<string, Jeladas> csoport in csoportok)
-                {
-                    Jeladas elso = csoport.First();
-                    Jeladas utolsoJeladas = csoport.Last();
-
-                    sw.WriteLine(csoport.Key + " " +
-                                 elso.Ora + " " + elso.Perc + " " +
-                                 utolsoJeladas.Ora + " " + utolsoJeladas.Perc);
-                }
+                sw.WriteLine(csoport.Key + " " +
+                            elso.Ora + " " + elso.Perc + " " +
+                            utolso.Ora + " " + utolso.Perc);
             }
-
-            Console.WriteLine("ido.txt elkészült.");
         }
+
+        Console.WriteLine("ido.txt elkészült.");
 
         static List<Jeladas> FajlbolOlvas(string fajlnev)
         {
